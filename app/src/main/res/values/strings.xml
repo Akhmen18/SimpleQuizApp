@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!-- ELEMENTS INSIDE CARD UI -->
+
+    <string name="Welcome">Welcome</string>
+    <string name="InpMsg">Please enter your name</string>
+    <string name="hint">Name</string>
+    <string name="btnText">START</string>
+</resources>
